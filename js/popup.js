@@ -1,0 +1,1 @@
+function embedtags(url,popupname,attributes){win = window.open(url,popupname,attributes);win.focus();}
